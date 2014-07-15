@@ -1,0 +1,23 @@
+{
+    "name": "lamjack/wechat-pay-bundle",
+    "description": "Tencent Wechat Payment Bundle",
+    "license": "BSD-2-Clause",
+    "keywords": ["wechat", "tencent", "payment"],
+    "authors": [
+        {
+            "name": "JackLam",
+            "email": "linjue@wilead.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-0": {
+            "LamJack\\Bundle\\WechatPayBundle": ""
+        }
+    },
+    "target-dir": "LamJack/Bundle/WechatPayBundle"
+}
