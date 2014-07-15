@@ -1,5 +1,6 @@
 {
     "name": "lamjack/wechat-pay-bundle",
+    "type": "symfony-bundle",
     "description": "Tencent Wechat Payment Bundle",
     "license": "BSD-2-Clause",
     "keywords": ["wechat", "tencent", "payment"],
